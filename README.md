@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Antoine ROBIN
 
-## 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Atineon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
 ## 💻 Tech Stack:
 ### Languages :
 
@@ -45,6 +40,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+## 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Atineon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 ## 📊 Stats:

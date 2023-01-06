@@ -1,4 +1,4 @@
-# Hi 👋, I'm Antoine ROBIN
+# 👋 Hi, I'm Antoine ROBIN
 
 # 🏆 GitHub Trophies
 

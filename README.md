@@ -1,6 +1,7 @@
 # 🏆 GitHub Trophies
+<div style="text-align: center">
 ![](https://github-profile-trophy.vercel.app/?username=Atineon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+</div>
 # 💻 Tech Stack:
 ## Languages :
 

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Antoine ROBIN
 
-## 💻 Tech Stack:
-### Languages :
+## 💻 Tech Stack
+### Languages
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,7 +15,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-### Framework :
+### Framework
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -30,7 +30,7 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### Others :
+### Others
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,7 +46,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Atineon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-## 📊 Stats:
+## 📊 Stats
 
 <img src="https://ghrms.teaminfernal.fr/api/top-langs/?username=atineon&show_icons=true&theme=radical&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=projetpoo&custom_title=Most%20Used%20Languages&hide_border=true&langs_count=8" />
 

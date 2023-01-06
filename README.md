@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antoine ROBIN
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Atineon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -47,7 +47,7 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 
 <img src="https://ghrms.teaminfernal.fr/api/top-langs/?username=atineon&show_icons=true&theme=radical&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=projetpoo&custom_title=Most%20Used%20Languages&hide_border=true&langs_count=8" />
 

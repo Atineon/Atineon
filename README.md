@@ -35,6 +35,5 @@
 
 # 📊 GitHub Stats:
 <img align="right" src="https://ghrms.teaminfernal.fr/api/top-langs/?username=atineon&show_icons=true&theme=radical&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=projetpoo&custom_title=Probably%20my%20favourite%20languages&hide_border=true&langs_count=8" />
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Atineon&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Atineon&theme=radical&hide_border=true&include_all_commits=true&count_private=true)

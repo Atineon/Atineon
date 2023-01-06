@@ -1,7 +1,8 @@
 # 🏆 GitHub Trophies
-<div style="text-align: center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Atineon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-</div>
+
+
 # 💻 Tech Stack:
 ## Languages :
 
@@ -45,6 +46,7 @@
 
 
 # 📊 GitHub Stats:
+
 <img src="https://ghrms.teaminfernal.fr/api/top-langs/?username=atineon&show_icons=true&theme=radical&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=projetpoo&custom_title=Most%20Used%20Languages&hide_border=true&langs_count=8" />
 
 ![](https://github-readme-stats.vercel.app/api?username=Atineon&theme=radical&hide_border=true&include_all_commits=false&count_private=true)

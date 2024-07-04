@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Atineon&icon=5&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Atineon&icon=5&color=2)](https://visitcount.itsvg.in)
 
 # 👋 Hi, I'm Antoine ROBIN
 

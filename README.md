@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Antoine ROBIN
 
+<a href="https://app.daily.dev/atineon"><img src="https://api.daily.dev/devcards/v2/r2C7crwCKGnhOxj3jf2Nd.png?type=default&r=2yo" width="356" alt="Antoine ROBIN's Dev Card"/></a>
+
 ## 💻 Tech Stack
 ### Languages
 
@@ -49,8 +51,6 @@
 
 
 ## 📊 Stats
-
-<img src="https://ghrms.teaminfernal.fr/api/top-langs/?username=atineon&show_icons=true&theme=radical&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=projetpoo&custom_title=Most%20Used%20Languages&hide_border=true&langs_count=8" />
 
 ![](https://github-readme-stats.vercel.app/api?username=Atineon&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 

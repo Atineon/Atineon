@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Antoine ROBIN
 
-<a href="https://app.daily.dev/atineon"><img src="https://api.daily.dev/devcards/v2/r2C7crwCKGnhOxj3jf2Nd.png?type=wide&r=2yo" width="652" alt="Antoine ROBIN's Dev Card"/></a>
+<a href="https://app.daily.dev/atineon" style="margin-x: auto"><img src="https://api.daily.dev/devcards/v2/r2C7crwCKGnhOxj3jf2Nd.png?type=default&r=sic" width="356" alt="Antoine ROBIN's Dev Card"/></a>
 
 ## 💻 Tech Stack:
 

@@ -1,11 +1,20 @@
 [![](https://visitcount.itsvg.in/api?id=Atineon&icon=5&color=2)](https://visitcount.itsvg.in)
 
 # 👋 Hi, I'm Antoine ROBIN
+<div align=center>
+  <a href="https://app.daily.dev/atineon"><img src="https://api.daily.dev/devcards/v2/r2C7crwCKGnhOxj3jf2Nd.png?type=default&r=sic" width="356" alt="Antoine ROBIN's Dev Card"/></a>
+</div>
 
-<a href="https://app.daily.dev/atineon"><img src="https://api.daily.dev/devcards/v2/r2C7crwCKGnhOxj3jf2Nd.png?type=default&r=sic" width="356" alt="Antoine ROBIN's Dev Card"/></a>
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Atineon&limit=5&theme=radical&hide_border=false&combine_all_yearly_contributions=true)" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atineon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atineon&theme=radical&hide_border=false)" />
+</div>
 
 ## 💻 Tech Stack:
-
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -100,16 +109,9 @@
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Atineon&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atineon&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atineon&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atineon&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

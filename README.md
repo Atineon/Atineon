@@ -38,7 +38,7 @@
 
 <h2>💻 Tech Stack</h2>
 <h3>Languages</h3>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
@@ -69,7 +69,7 @@
 </div>
 
 <h3>Frameworks, Platforms & Libraries</h3>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
@@ -102,7 +102,7 @@
 </div>
 
 <h3>Hosting/SaaS</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
@@ -115,7 +115,7 @@
 </div>
 
 <h3>Databases</h3>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />

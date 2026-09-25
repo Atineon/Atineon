@@ -8,7 +8,7 @@
 </picture>
 
 <h1>👋 Hi, I'm Antoine ROBIN</h1>
-<div align=center>
+<div align="center">
   <a href="https://app.daily.dev/atineon">
     <img src="https://api.daily.dev/devcards/v2/r2C7crwCKGnhOxj3jf2Nd.png?type=wide&r=yjb" width="652"
       alt="Antoine ROBIN's Dev Card" />
@@ -18,6 +18,8 @@
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://ghstats.dev/api/sparkline?username=atineon&days=30&width=320&height=100&border_radius=20&line_color=FBC02D&fill_color=FBC02D&title=Mes+commits+ces+30+derniers+jours" alt="Contribution Sparkline" />
+</div>
+<div align="center">
   <img src="https://ghstats.dev/api/card?username=atineon&border_radius=20&custom_title=Mes+statistiques+GitHub" alt="GitHub Stats Card" />
 </div>
 

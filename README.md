@@ -17,10 +17,10 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=atineon&days=30&width=500&height=150&border_radius=20&line_color=FBC02D&fill_color=FBC02D&title=Mes+commits+ces+30+derniers+jours" alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/sparkline?username=atineon&theme=ayu&days=30&width=500&height=150&border_radius=20&title=Mes+commits+ces+30+derniers+jours" alt="Contribution Sparkline" />
 </div>
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=atineon&border_radius=20&custom_title=Mes+statistiques+GitHub" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=atineon&theme=ayu&border_radius=20&custom_title=Mes+statistiques+GitHub" alt="GitHub Stats Card" />
 </div>
 
 <h2>💻 Tech Stack</h2>

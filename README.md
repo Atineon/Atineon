@@ -17,9 +17,7 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Atineon&radius=16&theme=cobalt&area=true&order=5&hide_border=true"
-    height="300" alt="activity-graph graph" />
+  <img src="https://ghstats.dev/api/card?username=atineon&border_radius=20&custom_title=Mes+statistiques+GitHub" alt="GitHub Stats Card" />
 </div>
 
 <h2>💻 Tech Stack</h2>
